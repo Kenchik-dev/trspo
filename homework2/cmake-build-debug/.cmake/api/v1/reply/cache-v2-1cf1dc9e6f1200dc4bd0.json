@@ -55,7 +55,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "c:/Users/Dima/CLionProjects/homework2/cmake-build-debug"
+			"value" : "c:/Users/Dima/Desktop/trspo/homework2/cmake-build-debug"
 		},
 		{
 			"name" : "CMAKE_CACHE_MAJOR_VERSION",
@@ -575,7 +575,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "C:/Users/Dima/CLionProjects/homework2/cmake-build-debug/CMakeFiles/pkgRedirects"
+			"value" : "C:/Users/Dima/Desktop/trspo/homework2/cmake-build-debug/CMakeFiles/pkgRedirects"
 		},
 		{
 			"name" : "CMAKE_GENERATOR",
@@ -647,7 +647,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "C:/Users/Dima/CLionProjects/homework2"
+			"value" : "C:/Users/Dima/Desktop/trspo/homework2"
 		},
 		{
 			"name" : "CMAKE_INSTALL_PREFIX",
@@ -1291,7 +1291,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "C:/Users/Dima/CLionProjects/homework2/cmake-build-debug"
+			"value" : "C:/Users/Dima/Desktop/trspo/homework2/cmake-build-debug"
 		},
 		{
 			"name" : "homework2_IS_TOP_LEVEL",
@@ -1315,7 +1315,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "C:/Users/Dima/CLionProjects/homework2"
+			"value" : "C:/Users/Dima/Desktop/trspo/homework2"
 		}
 	],
 	"kind" : "cache",
