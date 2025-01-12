@@ -1,3 +1,3 @@
-C:/Users/Dima/CLionProjects/homework4client/cmake-build-debug/CMakeFiles/homework4client.dir
-C:/Users/Dima/CLionProjects/homework4client/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/Dima/CLionProjects/homework4client/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/Dima/Desktop/trspo/homework4/homework4client/cmake-build-debug/CMakeFiles/homework4client.dir
+C:/Users/Dima/Desktop/trspo/homework4/homework4client/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Dima/Desktop/trspo/homework4/homework4client/cmake-build-debug/CMakeFiles/rebuild_cache.dir

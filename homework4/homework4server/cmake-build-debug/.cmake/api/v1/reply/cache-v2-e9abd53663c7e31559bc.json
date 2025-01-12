@@ -55,7 +55,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "c:/Users/Dima/CLionProjects/homework4client/cmake-build-debug"
+			"value" : "c:/Users/Dima/Desktop/trspo/homework4/homework4server/cmake-build-debug"
 		},
 		{
 			"name" : "CMAKE_CACHE_MAJOR_VERSION",
@@ -575,7 +575,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "C:/Users/Dima/CLionProjects/homework4client/cmake-build-debug/CMakeFiles/pkgRedirects"
+			"value" : "C:/Users/Dima/Desktop/trspo/homework4/homework4server/cmake-build-debug/CMakeFiles/pkgRedirects"
 		},
 		{
 			"name" : "CMAKE_GENERATOR",
@@ -647,7 +647,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "C:/Users/Dima/CLionProjects/homework4client"
+			"value" : "C:/Users/Dima/Desktop/trspo/homework4/homework4server"
 		},
 		{
 			"name" : "CMAKE_INSTALL_PREFIX",
@@ -659,7 +659,7 @@
 				}
 			],
 			"type" : "PATH",
-			"value" : "C:/Program Files (x86)/homework4client"
+			"value" : "C:/Program Files (x86)/homework4server"
 		},
 		{
 			"name" : "CMAKE_LINKER",
@@ -875,7 +875,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "homework4client"
+			"value" : "homework4server"
 		},
 		{
 			"name" : "CMAKE_RANLIB",
@@ -1282,7 +1282,7 @@
 			"value" : "TRUE"
 		},
 		{
-			"name" : "homework4client_BINARY_DIR",
+			"name" : "homework4server_BINARY_DIR",
 			"properties" : 
 			[
 				{
@@ -1291,10 +1291,10 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "C:/Users/Dima/CLionProjects/homework4client/cmake-build-debug"
+			"value" : "C:/Users/Dima/Desktop/trspo/homework4/homework4server/cmake-build-debug"
 		},
 		{
-			"name" : "homework4client_IS_TOP_LEVEL",
+			"name" : "homework4server_IS_TOP_LEVEL",
 			"properties" : 
 			[
 				{
@@ -1306,7 +1306,7 @@
 			"value" : "ON"
 		},
 		{
-			"name" : "homework4client_SOURCE_DIR",
+			"name" : "homework4server_SOURCE_DIR",
 			"properties" : 
 			[
 				{
@@ -1315,7 +1315,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "C:/Users/Dima/CLionProjects/homework4client"
+			"value" : "C:/Users/Dima/Desktop/trspo/homework4/homework4server"
 		}
 	],
 	"kind" : "cache",
