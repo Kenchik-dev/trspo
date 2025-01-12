@@ -1,0 +1,3 @@
+C:/Users/Dima/CLionProjects/homework5client/cmake-build-debug/CMakeFiles/homework5client.dir
+C:/Users/Dima/CLionProjects/homework5client/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Dima/CLionProjects/homework5client/cmake-build-debug/CMakeFiles/rebuild_cache.dir
